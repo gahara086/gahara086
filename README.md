@@ -17,7 +17,3 @@
 - [GitHub - gahara086/portfolio-template](https://github.com/gahara086/portfolio-template)
 - [GitHub - gahara086/portfolio-gahara](https://github.com/gahara086/portfolio-gahara)
 
-## データ分析
-<img src="https://skillicons.dev/icons?i=py,pytorch" /> 
-
-- [GitHub - gahara086/data-analysis-study](https://github.com/gahara086/data-analysis-study)
